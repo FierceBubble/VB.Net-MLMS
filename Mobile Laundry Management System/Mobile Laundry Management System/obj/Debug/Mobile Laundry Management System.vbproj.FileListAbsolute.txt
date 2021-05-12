@@ -1,0 +1,162 @@
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Mobile Laundry Management System.exe.config
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Mobile Laundry Management System.exe
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Mobile Laundry Management System.pdb
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Mobile Laundry Management System.xml
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\MySql.Data.dll
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Zstandard.Net.dll
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Renci.SshNet.dll
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\System.Buffers.dll
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\System.Memory.dll
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\MySql.Data.xml
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.vbprojAssemblyReference.cache
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.exe.config
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.Resources.resources
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.vbproj.GenerateResource.cache
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.vbproj.CoreCompileInputs.cache
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.vbproj.CopyComplete
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.exe
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.xml
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.pdb
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.SignIn.resources
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.SignUp.resources
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.MainMenu.resources
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.StaffMainMenu.resources
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.TopUpForm.resources
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.CustomerPersonalInformation.resources
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.EditPersonalInfo.resources
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.NewLaundry.resources
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Mobile Laundry Management System.exe.config
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Mobile Laundry Management System.exe
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Mobile Laundry Management System.pdb
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Mobile Laundry Management System.xml
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\MySql.Data.dll
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Zstandard.Net.dll
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Renci.SshNet.dll
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\System.Buffers.dll
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\System.Memory.dll
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\MySql.Data.xml
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.vbprojAssemblyReference.cache
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.exe.config
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.CustomerHistoryList.resources
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.CustomerPersonalInformation.resources
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.EditPersonalInfo.resources
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.MainMenu.resources
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.NewLaundry.resources
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.SignIn.resources
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.Resources.resources
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.SignUp.resources
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.StaffMainMenu.resources
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.TopUpForm.resources
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.vbproj.GenerateResource.cache
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.vbproj.CoreCompileInputs.cache
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.vbproj.CopyComplete
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.exe
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.xml
+C:\Users\Daniel Ryan\Desktop\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.pdb
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.ListItems.resources
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.AdminPage.resources
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.NewStaff.resources
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.EditStaffInfo.resources
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.EditCustomerfromAdmin.resources
+C:\Users\Fierce Bubble\Desktop\Sem 6\Managing & Implementing Business Project\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.EditStaffInfoMainMenu.resources
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Mobile Laundry Management System.exe.config
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Mobile Laundry Management System.exe
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Mobile Laundry Management System.pdb
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Mobile Laundry Management System.xml
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\MySql.Data.dll
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Zstandard.Net.dll
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Renci.SshNet.dll
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\System.Buffers.dll
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\System.Memory.dll
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\MySql.Data.xml
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.vbprojAssemblyReference.cache
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.exe.config
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.AdminPage.resources
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.CustomerPersonalInformation.resources
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.EditCustomerfromAdmin.resources
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.EditPersonalInfo.resources
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.EditStaffInfo.resources
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.EditStaffInfoMainMenu.resources
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.ListItems.resources
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.MainMenu.resources
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.NewLaundry.resources
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.NewStaff.resources
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.SignIn.resources
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.Resources.resources
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.SignUp.resources
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.StaffMainMenu.resources
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.TopUpForm.resources
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.vbproj.GenerateResource.cache
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.vbproj.CoreCompileInputs.cache
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.vbproj.CopyComplete
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.exe
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.xml
+C:\Users\Fierce Bubble\Desktop\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.pdb
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Mobile Laundry Management System.exe.config
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Mobile Laundry Management System.exe
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Mobile Laundry Management System.pdb
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Mobile Laundry Management System.xml
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Zstandard.Net.dll
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\Renci.SshNet.dll
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\System.Buffers.dll
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\System.Memory.dll
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\bin\Debug\MySql.Data.xml
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.vbprojAssemblyReference.cache
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.exe.config
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.AdminPage.resources
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.CustomerPersonalInformation.resources
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.EditCustomerfromAdmin.resources
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.EditPersonalInfo.resources
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.EditStaffInfo.resources
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.EditStaffInfoMainMenu.resources
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.ListItems.resources
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.MainMenu.resources
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.NewLaundry.resources
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.NewStaff.resources
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.SignIn.resources
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.Resources.resources
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.SignUp.resources
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.StaffMainMenu.resources
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile_Laundry_Management_System.TopUpForm.resources
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.vbproj.GenerateResource.cache
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.vbproj.CoreCompileInputs.cache
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.vbproj.CopyComplete
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.exe
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.xml
+C:\Users\Fierce Bubble\Desktop\University\MLMS\Mobile Laundry Management System\Mobile Laundry Management System\obj\Debug\Mobile Laundry Management System.pdb
